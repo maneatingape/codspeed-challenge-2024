@@ -1,0 +1,8 @@
+[package]
+name = "codspeed-challenge-2024"
+version = "2024.12.25"
+edition = "2021"
+rust-version = "1.83"
+
+[dependencies]
+aoc = { git = "https://github.com/maneatingape/advent-of-code-rust.git" }
