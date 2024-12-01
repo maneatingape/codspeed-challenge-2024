@@ -14,3 +14,5 @@ macro_rules! wrapper {
         }
     };
 }
+
+wrapper!(day1, day01);
