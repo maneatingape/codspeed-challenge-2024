@@ -19,3 +19,4 @@ macro_rules! wrapper {
 wrapper!(day1, day01);
 wrapper!(day2, day02);
 wrapper!(day3, day03);
+wrapper!(day4, day04);
