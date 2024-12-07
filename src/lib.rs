@@ -22,3 +22,4 @@ wrapper!(day3, day03);
 wrapper!(day4, day04);
 wrapper!(day5, day05);
 wrapper!(day6, day06);
+wrapper!(day7, day07);
